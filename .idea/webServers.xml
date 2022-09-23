@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e43d978f-8eba-4320-89a9-2b71ca09a6c5" name="prod" url="http://ftp.front-end-dev.com.ua">
+        <fileTransfer rootFolder="/vivjen.com" host="ftp.front-end-dev.com.ua" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,182 @@
+[20-Apr-2022 08:51:13 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 08:51:16 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 08:51:17 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 08:51:18 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 08:56:38 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 08:56:42 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 09:29:53 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 09:29:54 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 09:29:54 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 09:33:23 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 09:33:59 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:06:19 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:11:02 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:21:31 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:21:31 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:21:32 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:21:32 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:39:16 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:39:16 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:39:16 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:39:16 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:52:47 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:52:49 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:54:32 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 10:54:53 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
+[20-Apr-2022 11:06:45 UTC] PHP Fatal error:  Uncaught ErrorException: Undefined variable: page in /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php:5
+Stack trace:
+#0 /home/fronten8/vivjen.com/storage/framework/views/ca23994681c75cbe81e99e02d8e8bb53636ef274.php(5): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/fronten8/...', 5, Array)
+#1 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/fronten8/...')
+#2 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/fronten8/...', Array)
+#4 /home/fronten8/vivjen.com/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/fron in /home/fronten8/vivjen.com/resources/views/client/layouts/head.blade.php on line 5
