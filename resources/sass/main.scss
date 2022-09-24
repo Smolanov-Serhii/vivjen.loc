@@ -151,6 +151,13 @@ div.main{
   padding-right: 50px;
   padding-left: 50px;
 }
+.middle-container{
+  max-width: 1120px;
+  @extend .padding-left;
+  @extend .padding-right;
+  margin: auto;
+  width: 100%;
+}
 .section-title{
   font-weight: 800;
   font-size: 5rem;
@@ -539,7 +546,7 @@ div.main{
 }
 .img-devider{
   position: relative;
-  margin-top: 13rem;
+  //margin-top: 13rem;
   padding: 12.3rem 0;
   //margin-bottom: 13rem;
   &__bg{
@@ -846,3 +853,6 @@ div.main{
     }
   }
 }
+
+@import "templates/tarifs";
+@import "templates/reviews";

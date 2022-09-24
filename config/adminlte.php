@@ -299,8 +299,12 @@ return [
             'label_color' => 'success',
             'submenu' => [
                 [
-                    'text' => 'Виды тарифов',
+                    'text' => 'Тарифы',
                     'url'  => '/admin/modules/items/list/26',
+                ],
+                [
+                    'text' => 'Тип тарифа ',
+                    'url'  => '/admin/taxonomy/items/list/8',
                 ],
             ],
 

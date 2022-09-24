@@ -86,23 +86,23 @@ $attributes = $module->attrs->mapWithKeys(function ($attr) {
 {{--                                    @break--}}
 {{--                                @endswitch--}}
                             </td>
-                            @if($module->name == 'reviews')
-                                <td>
-                                    <div class="custom-control custom-switch"
-                                         style="display: inline-block; width: 30px; margin: 10px; position: absolute">
-                                        <input
-                                                name="enabled"
-                                                type="checkbox"
-                                                class="custom-control-input moderate-comment-switcher"
-                                                data-comment_id="{{ $item->id }}"
-                                                id="moderate_comment_{{ $item->id }}"
-                                                data-url="{{ route('admin.review.moderate', ['review' => $item]) }}"
-                                                @if($item->props()->where('module_attribute_id', $attributes['is_approved'])->first()->value == 1) checked="" @endif
-                                        >
-                                        <label class="custom-control-label" for="moderate_comment_{{ $item->id }}"></label>
-                                    </div>
-                                </td>
-                            @endif
+{{--                            @if($module->name == 'reviews')--}}
+{{--                                <td>--}}
+{{--                                    <div class="custom-control custom-switch"--}}
+{{--                                         style="display: inline-block; width: 30px; margin: 10px; position: absolute">--}}
+{{--                                        <input--}}
+{{--                                                name="enabled"--}}
+{{--                                                type="checkbox"--}}
+{{--                                                class="custom-control-input moderate-comment-switcher"--}}
+{{--                                                data-comment_id="{{ $item->id }}"--}}
+{{--                                                id="moderate_comment_{{ $item->id }}"--}}
+{{--                                                data-url="{{ route('admin.review.moderate', ['review' => $item]) }}"--}}
+{{--                                                @if($item->props()->where('module_attribute_id', $attributes['is_approved'])->first()->value == 1) checked="" @endif--}}
+{{--                                        >--}}
+{{--                                        <label class="custom-control-label" for="moderate_comment_{{ $item->id }}"></label>--}}
+{{--                                    </div>--}}
+{{--                                </td>--}}
+{{--                            @endif--}}
                             <td>
                                 <div class="btn-group">
                                     <a style="margin-right: 3px" href="{{ route('admin.modules.items.update', ['module_item' => $item]) }}"

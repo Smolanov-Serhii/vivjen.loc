@@ -1,0 +1,96 @@
+.tarifs{
+  margin-top: 15.8rem;
+  margin-bottom: 13rem;
+  &__container{
+    .category__group{
+      display: flex;
+      justify-content: center;
+      margin-bottom: 5.7rem;
+      margin-top: 4.2rem;
+    }
+  }
+  &__list{
+    #category_result{
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -8rem;
+    }
+  }
+  &__item{
+    width: calc(33.3333% - 8rem);
+    margin-right: 8rem;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 66px rgba(146, 146, 146, 0.05);
+    border-radius: 10px;
+    padding: 3.3rem 5rem;
+    display: flex;
+    flex-direction: column;
+    .stroke-btn{
+      border: 2px solid #005BAA;
+      color: #005BAA;
+      text-align: center;
+    }
+    &-header{
+      padding-bottom: 2.7rem;
+      border-bottom: 1px dashed #E0E0E0;
+      margin-bottom: 2.7rem;
+    }
+    &-title{
+      font-weight: 600;
+      font-size: 2rem;
+      line-height: 100%;
+      color: #001629;
+    }
+    &-subtitle{
+      font-weight: 400;
+      font-size: 1.6rem;
+      line-height: 156.9%;
+      color: #001629;
+    }
+    &-price{
+      display: flex;
+      align-items: flex-end;
+      span{
+        font-weight: 600;
+        font-size: 2.4rem;
+        line-height: 120%;
+        color: #005BAA;
+        align-items: flex-end;
+        display: inline-block;
+        margin-right: 6px;
+      }
+      .value{
+        font-weight: 600;
+        font-size: 4rem;
+        line-height: 100%;
+        color: #005BAA;
+      }
+    }
+    &-desc{
+      flex: 1;
+      margin-bottom: 5.3rem;
+      ul{
+        li{
+          position: relative;
+          padding-left: 4rem;
+          font-weight: 400;
+          font-size: 1.6rem;
+          line-height: 156.9%;
+          color: #001629;
+          &:before{
+            position: absolute;
+            top: -0.2rem;
+            left: 0;
+            content: "";
+            width: 2.4rem;
+            height: 2.4rem;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: contain;
+            background-image: url("/img/templates/tarifs/li.svg");
+          }
+        }
+      }
+    }
+  }
+}

@@ -21494,6 +21494,20 @@ $(document ).ready(function() {
         });
     }
 
+    if ($('.reviews').length){
+        var RevSlider = new Swiper('.reviews .swiper-container', {
+            slidesPerView: 1,
+            loop: true,
+            observer: true,
+            spaceBetween: 30,
+            observeParents: true,
+            lazy: true,
+            pagination: {
+                el: ".reviews .swiper-pagination",
+                clickable: true,
+            }
+        });
+    }
 
     if($('.teathers').length){
         var teathers = new Swiper(".teathers .swiper-container", {
@@ -21533,4 +21547,10 @@ $(document ).ready(function() {
             },
         });
     }
+
+    $('.tarifs .blog-page__rubrik').on('click', function() {
+        console.log('change');
+        $('.tarifs .blog-page__rubriks input[type="checkbox"]').prop('checked', false);
+        $(this).find('input[type="checkbox"]').prop('checked', true);
+    });
 });
